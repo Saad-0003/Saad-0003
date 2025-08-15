@@ -1,29 +1,16 @@
 # Hey! 👋 I'm Saad
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer&repeat=false" alt="Typing SVG" />
 </div>
 
 ## About Me
 
-> *"Every expert was once a beginner. Every pro was once an amateur."*
+I’m an aspiring full-stack web developer driven by curiosity, creativity, and determination. My coding journey began with C++ and Java, sparking a love for solving complex problems and building meaningful projects. Skilled in HTML and CSS, I enjoy transforming ideas into interactive, user-friendly experiences. Currently, I’m focused on mastering Data Structures & Algorithms in Java to strengthen my problem-solving foundation, with plans to advance into JavaScript, React, and backend technologies.
 
-I'm a passionate **aspiring full-stack web developer** who believes that the best code is written with curiosity, creativity, and a healthy dose of determination. Currently mastering the fundamentals while dreaming big about building applications that make a difference.
-
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saad-0003&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-0003&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saad-0003&theme=tokyonight&hide_border=true)
-
-</div>
+Fun fact:
+> Bleach is my favourite anime.
+> I love cricket.
 
 ---
 
